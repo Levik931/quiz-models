@@ -12,10 +12,13 @@
 
 1. We can use a Finite State Machine (FSM) to model the interaction between the OS and your program.
 On a piece of paper, 
-   - draw the Process Status Diagram
+   - draw the Process Status Diagram (PSD)
    - label both it states and edges
    - upload a picture of your FSM
-   - submit this picture with the name of FSM.png
+   - submit this picture with the name of PSD.png
+
+  ![Process Status Diagram](PSD.png)
+
 
 1. An ISA is an abstraction for a physical computer.  This abstraction includes five (5) characteristics.  Enumerate the 5 major characteristics.
    1.                                                     <!-- response -->
