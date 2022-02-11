@@ -1,3 +1,15 @@
+# Quiz #1: Models of Communication and Computation
+### Date: Feburary 12, 2020
+### Estimated time: 1 hour
+### Exam Timeframe
+* Start: Friday: 18:00 (6:00pm)
+* End: Saturday: 18:00 (6:00pm)
+
+---
+## Name:                                            <!-- answer -->
+## GitHub Account:                                  <!-- answer -->
+
+
 1. We can use a Finite State Machine (FSM) to model the interaction between the OS and your program.
 On a piece of paper, 
    - draw the Process Status Diagram
