@@ -1,13 +1,13 @@
 # Quiz #1: Models of Communication and Computation
-### Date: Feburary 12, 2020
+### Date: February 12, 2020
 ### Estimated time: 1 hour
-### Exam Timeframe
+### Exam Time-frame
 * Start: Friday: 18:00 (6:00pm)
 * End: Saturday: 18:00 (6:00pm)
 
 ---
-## Name:                                            <!-- answer -->
-## GitHub Account:                                  <!-- answer -->
+## Name:                                                  <!-- answer -->
+## GitHub Account:                                        <!-- answer -->
 
 
 1. We can use a Finite State Machine (FSM) to model the interaction between the OS and your program.
@@ -15,37 +15,52 @@ On a piece of paper,
    - draw the Process Status Diagram
    - label both it states and edges
    - upload a picture of your FSM
-   - submit this picture with the name of  FSM.jpeg
+   - submit this picture with the name of FSM.png
 
-1. An ISA is an abstraction for a physical computer.  This abstraction includes five (5) charactorsics.  Enumerate the 5 major charactoristis.
+1. An ISA is an abstraction for a physical computer.  This abstraction includes five (5) characteristics.  Enumerate the 5 major characteristics.
+   1.                                                     <!-- response -->
+   1.                                                     <!-- response -->
+   1.                                                     <!-- response -->
+   1.                                                     <!-- response -->
+   1.                                                     <!-- response -->
+   1.                                                     <!-- response -->
 
-1. Breifly describe the difference between a Sequential circuit and a Combinational Circuit.
+1. Briefly describe the difference between a Sequential circuit and a Combinational Circuit.
    ```
-                     <!-- response -->
-                     <!-- response -->
+                                                          <!-- response -->
+                                                          <!-- response -->
    ```
 
    <!-- You may add additional lines in your answer.  Make sure place the response tag on each of these lines. -->
 
 
- 1. Define the following terms:
-    1. Interupt
-    1. Trap
-    1. lval
-    1. rval
+1. Define the following terms:
+   1. interrupt
+      -                                                    <!-- response -->
+   1. trap
+      -                                                    <!-- response -->
+   1. lval
+      -                                                    <!-- response -->
+   1. rval
+      -                                                    <!-- response -->
 
- 1. A `Universal Computer' is a abstract machine based upon the Turing Machine.  This computer has a standardized control program to manage the hardware.  Two other programs are placed on the tape.  What ae these two other programs:
 
-    1.  <!-- response -->
-    1.  <!-- response -->
+1. A 'Universal Computer' is a abstract machine based upon the Turing Machine.  This computer has a standardized control program to manage the underlying finite state machine. (This control program is akin to the computer firmware).  Two other programs are placed on the tape.  What are these two other programs:
+  1.                                                      <!-- response -->
+  1.                                                      <!-- response -->
+
 
 1. What is the purpose of computing and validating the checksum value associated with an IPv4 header.
-
-
-1. Memory can be modeled as an array of bytes.  A register on the MIPS architecture contains 32 bits.  What role does endiness play when we execute an instruction to load a register with values stored within memory.
    ```
-                     <!-- response -->
-                     <!-- response -->
+                                                          <!-- response -->
+                                                          <!-- response -->
+   ```
+
+
+1. Memory can be modeled as an array of bytes.  A register on the MIPS architecture contains 32 bits.  What role does endiance play when we execute an instruction to load a register with values stored within memory.
+   ```
+                                                          <!-- response -->
+                                                          <!-- response -->
    ```
 
 1. Given the following configuration of memory, answer the following questions:
