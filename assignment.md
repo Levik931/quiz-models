@@ -16,6 +16,7 @@ On a piece of paper,
    - label both it states and edges
    - upload a picture of your FSM
    - submit this picture with the name of PSD.png
+  
   ![Process Status Diagram](PSD.png)
 
 
