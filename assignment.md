@@ -20,7 +20,7 @@ On a piece of paper,
   ![Process Status Diagram](PSD.png)
 
 
-1. An ISA is an abstraction for a physical computer.  This abstraction includes five (5) characteristics.  Enumerate the 5 major characteristics.
+1. An ISA is an abstraction for a physical computer.  This abstraction includes five (5) characteristics.  Enumerate these 5 major characteristics.
    1.                                                     <!-- response -->
    1.                                                     <!-- response -->
    1.                                                     <!-- response -->
@@ -34,7 +34,7 @@ On a piece of paper,
                                                           <!-- response -->
    ```
 
-   <!-- You may add additional lines in your answer.  Make sure place the response tag on each of these lines. -->
+   <!-- You may add additional lines in your answer.  Make sure you place the response tag on each of these lines. -->
 
 
 1. Define the following terms:
