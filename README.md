@@ -1,4 +1,4 @@
-# Quiz #2: Digital Logic
+# Quiz #1: Models of Communication and Computation
 
 ### Date: November 8, 2021
 ### Allocated time:  1.5 hours (with a 10 minute cushion)
