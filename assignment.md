@@ -15,8 +15,7 @@ On a piece of paper,
    - draw the Process Status Diagram (PSD)
    - label both it states and edges
    - upload a picture of your FSM
-   - submit this picture with the name of PSD.png
-  
+   - submit this picture with the name of PSD.png<br>
   ![Process Status Diagram](PSD.png)
 
 
@@ -48,7 +47,7 @@ On a piece of paper,
       -                                                    <!-- response -->
 
 
-1. A 'Universal Computer' is a abstract machine based upon the Turing Machine.  This computer has a standardized control program to manage the underlying finite state machine. (This control program is akin to the computer firmware).  Two other programs are placed on the tape.  What are these two other programs:
+1. A 'Universal Computer' is an abstract machine based upon the Turing Machine.  This computer has a standardized control program to manage the underlying finite state machine. (This control program is akin to the computer firmware).  Two other programs are placed on the tape.  What are these two other programs:
   1.                                                      <!-- response -->
   1.                                                      <!-- response -->
 
