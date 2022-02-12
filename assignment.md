@@ -66,9 +66,9 @@ On a piece of paper,
    ```
 
 1. Given the following configuration of memory, answer the following questions:
-   1. What is the value stored in memory at location `0x8000 00007`: 
+   1. What is the value stored in memory at location `0x8000 0007`: 
       -       <!-- response -->
-   1. What is the label associated with location `0x8000 00009` in memory
+   1. What is the label associated with location `0x8000 0009` in memory
       -       <!-- response -->
    1. What is the lval associated with `B`:  
       -       <!-- response -->
