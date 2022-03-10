@@ -19,7 +19,7 @@
   3. Use additional spacing to ensure your answer is _easy_ to read to maximize credit.
   4. Add additional information as you feel is necessary to maximize credit.
   5. Don't forget to do a final ``git push`` to make your final submission
-     - You can view your answers.md file online to review your final formatted submission 
+     - You can view your submission.md file online to review your final formatted submission 
 
 ## Grading
    1. A semi-automated process will be used to expedite the grading of this assignment. 
