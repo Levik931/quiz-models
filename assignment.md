@@ -1,3 +1,6 @@
+#  This is an example quiz!
+
+---
 # Quiz #1: Models of Communication and Computation
 ### Date: February 12, 2020
 ### Estimated time: 1 hour
