@@ -1,3 +1,6 @@
+# This is a sample QUIZ!
+
+---
 # General Assignment Directions
 
 ## To Get Started
